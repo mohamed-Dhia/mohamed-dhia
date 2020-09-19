@@ -55,4 +55,4 @@
 
 ---
 
-[![Spotify](https://spotify-playing-now.vercel.app/api/spotify)](https://open.spotify.com/user/riv2md9ix0a8vgfdwitiga1do)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/riv2md9ix0a8vgfdwitiga1do)
