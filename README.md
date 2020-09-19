@@ -52,3 +52,7 @@
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-dhia&layout=compact" alt="mohamed-dhia" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-dhia&show_icons=true" alt="mohamed-dhia" /></p>
+
+---
+
+[![Spotify](https://spotify-playing-now.vercel.app/api/spotify)](https://open.spotify.com/user/riv2md9ix0a8vgfdwitiga1do)
