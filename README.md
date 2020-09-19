@@ -69,7 +69,7 @@
 ---
 
 <details>
-<summary>### :zap: Recent Activity</summary>
+<summary><h3>:zap: Recent Activity</h3></summary>
 <br>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
