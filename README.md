@@ -8,7 +8,7 @@
 
 ---
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=mohamed-dhia" alt="mohamed-dhia" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=mohamed-dhia" alt="mohamed-dhia" /> </p>
 
 - 🔭 I’m currently working **as a web development Instructor at [RBK tunisia](https://www.rebootkamp.net/)**
 
@@ -65,3 +65,8 @@
 ---
 
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/user/riv2md9ix0a8vgfdwitiga1do)
+
+---
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
