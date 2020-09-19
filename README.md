@@ -53,10 +53,10 @@
 
 <table width="100%">
 <tr>
-<td width="50%">
+<td width="60%">
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-dhia&show_icons=true" alt="mohamed-dhia" /></p>
 </td>
-<td width="50%">
+<td width="40%">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-dhia&layout=compact" alt="mohamed-dhia" /></p>
 </td>
 </tr>
