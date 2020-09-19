@@ -69,4 +69,5 @@
 ---
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#108](https://github.com//lauripiispanen/most-active-github-users-counter/issues/108) in [lauripiispanen/most-active-github-users-counter](https://github.com//lauripiispanen/most-active-github-users-counter)
 <!--END_SECTION:activity-->
