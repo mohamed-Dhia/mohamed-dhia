@@ -10,11 +10,11 @@
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=mohamed-dhia" alt="mohamed-dhia" /> </p>
 
-- 🔭 I’m currently working **as a web development Instructor at [RBK tunisia](https://www.rebootkamp.net/)**
+- 🔭 I’m currently working **as a software development engineer at [Think It](https://www.think-it.io/)**
 
 - 🌱 I’m currently learning **GoLang**
 
-- 💬 Ask me about **Javascript, React, express, MongoDB**
+- 💬 Ask me about **Javascript, React, Redux, express, MongoDB**
 
 - 📫 How to reach me **mohameddhia365@gmail.com**
 
